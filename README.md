@@ -10,7 +10,7 @@ An awesome code font for code editor and the terminal.
 
 ### Configure Your Code Editor
 
-for vscode setup:
+After Install font then update vscode settings.json file
 
 ```sh
   "editor.fontFamily": "OperatorMonoSSmLig-Book",
@@ -20,4 +20,3 @@ for vscode setup:
   "editor.fontLigatures": true,
   "editor.fontWeight": "500",   // adjust for desired weight
 ```
-# operator-mono-ligature
