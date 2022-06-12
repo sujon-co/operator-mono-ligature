@@ -18,5 +18,6 @@ After Install font then update vscode settings.json file
   // for Windows
   "editor.fontFamily": "Operator Mono SSm Lig",
   "editor.fontLigatures": true,
-  "editor.fontWeight": "500",   // adjust for desired weight
+  "editor.fontWeight": "400",   // adjust for desired weight
 ```
+> :warning: **If you are using window **: Restart VsCode
