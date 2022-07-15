@@ -5,7 +5,7 @@ An awesome code font for code editor and the terminal.
 ## Usage
 
 ```sh
- git clone hhttps://github.com/SujonHossain1/operator-mono-ligature.git
+ git clone https://github.com/SujonHossain1/operator-mono-ligature.git
 ```
 
 ### Configure Your Code Editor
